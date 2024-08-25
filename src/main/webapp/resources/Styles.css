@@ -1,0 +1,176 @@
+@charset "UTF-8";
+
+body{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+}
+
+#form-section{
+  padding-bottom: 1000px;
+}
+
+main{
+  margin-top: 100px;
+  text-align: center;
+
+}
+
+table{
+	margin-top :50px;
+}
+
+#button{
+	margin : 0;
+}
+
+
+#about{
+	margin-top: 100px;
+	margin-left:100px;
+	height: 200px;
+	width: 1000px;
+}
+
+
+.login-title{
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+span{
+  color: #FF0000;
+}
+
+main h3{
+  margin-top: 50px;
+  word-spacing: 10px;
+
+}
+
+
+#courses{
+  color: #FF0000;
+}
+
+#Regestration-options{
+  display: flex;
+  margin-left: auto;
+  margin-bottom: 15px;
+}
+
+
+.top-nav-ul{
+  list-style-type: none;
+  display: inline;
+  padding-left: 0;
+}
+
+
+.nav-bar {
+  opacity: 0; /* Start hidden */
+  visibility: hidden; /* Prevents interaction while hidden */
+  align-items: center;
+  margin-top: 30px;
+  display: flex; /* Use flex layout */
+  justify-content: left;
+  margin-left: 5%;
+  margin-right: 5%;
+  font-size: 1rem;
+  /* border-radius: 25px; */
+  box-shadow: 0 4px 0px rgba(5, 2, 1, 0.1);
+  transition: opacity 1s ease, visibility 1s ease; /* Smooth transition */
+}
+
+
+
+#logo{
+  height: 50px;
+  width: 50px;
+  display: inline;
+}
+
+.top-nav-lists{
+  display: inline;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+
+
+.card-img{
+  height: 9rem;
+  width: 280px;
+}
+
+.card h3 {
+  display: block;
+}
+
+.parent{
+margin-left: 4rem;
+display: grid;
+grid-template-columns: repeat(3, 1fr);
+grid-template-rows: repeat(3, 1fr);
+grid-column-gap: 0px;
+grid-row-gap: 0px;
+}
+
+.card{
+
+  width: 300px;
+  margin-right: 20px;
+  margin-left: 20px;
+  box-shadow: 0 4px 0px rgba(5, 2, 1, 0.1);
+  margin-top: 6rem;
+   display: inline-block;
+  text-align: center;
+  height: 15.0rem;
+}
+
+hr{
+  color: black;
+  margin: 0;
+}
+button{
+  margin-top: 20px;
+  margin-left: 210px;
+
+
+}
+
+.btn-secondary{
+  margin: 0;
+
+}
+
+a{
+  text-decoration: none;
+  color: black;
+}
+
+#bottom-content{
+  margin-top: 100px;
+  background-color: #F6F5F5;
+}
+
+.form-control{
+  width: 300px;
+}
+
+#Log-in-form{
+  opacity: 0;
+  visibility: hidden;
+  width: 500px;
+  position: absolute;
+  left: 450px;
+  top: 120px;
+  padding: 100px;
+  border-style: solid;
+  border-radius: 25px;
+}
+
+footer{
+  text-align: center;
+}
