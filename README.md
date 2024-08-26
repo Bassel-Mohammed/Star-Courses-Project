@@ -146,7 +146,9 @@ choose the server you want to run it ( version 9 or older ).
   
 #### Note : if you don't have any server version you can download it and click on New option and choose the server file location to apply it  
 
-### Note : this application is using XML servlet file configuration so to connect it with your database make sure to get to testApp-Servlet.xml and add you database password in the correct place and the correct path , you can input your password here <beans:property name="password" value="Your-database-password"/> or make the value empty if your database work without password and here you need to input the database path <beans:property name="url" value="jdbc:mysql://localhost:3306/starcourses"/> . 
+
+
+#### Note : this application is using XML servlet file configuration so to connect it with your database make sure to get to testApp-Servlet.xml and add you database password in the correct place and the correct path , you can input your password here <beans:property name="password" value="Your-database-password"/> or make the value empty if your database work without password and here you need to input the database path <beans:property name="url" value="jdbc:mysql://localhost:3306/starcourses"/> . 
 
 __________________________________________________________________________________________________________________________________________________________________________________________
 ## Improvements the projects need  
