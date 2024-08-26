@@ -57,7 +57,7 @@ ________________________________________________________________________________
 ![StarCoursesMain](https://github.com/user-attachments/assets/1d8bd0d3-959c-4807-a567-2bbe70f26bc8) 
 
   
-### Sign in page 
+### Sign up page 
 
 ![StarCoursesSignUp](https://github.com/user-attachments/assets/6f6a7d6c-756a-4796-a4a9-959ce896498a) 
 
